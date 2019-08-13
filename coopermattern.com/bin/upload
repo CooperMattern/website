@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /var/www/
+git commit -m "$date"
+git push origin master
